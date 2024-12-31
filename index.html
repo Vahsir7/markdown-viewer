@@ -3,6 +3,74 @@
 <head>
   <title>My Markdown Page</title>
   <script src="https://cdn.rawgit.com/showdownjs/showdown/1.9.1/dist/showdown.min.js"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 2rem;
+      background-color: #c4e7b4;
+      color: #343a40;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: 600;
+      margin-top: 1.5rem;
+      color: #212529;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: #007bff; /* Blue */
+    }
+
+    h2 {
+      font-size: 2rem;
+      color: #28a745; /* Green */
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
+
+    a {
+      color: #007bff; /* Blue */
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    code {
+      font-family: 'Courier New', Courier, monospace;
+      background-color: #e9ecef;
+      padding: 0.2rem 0.4rem;
+      border-radius: 3px;
+    }
+
+    pre {
+      background-color: #e9ecef;
+      padding: 1rem;
+      overflow-x: auto;
+      border-radius: 5px;
+    }
+
+    blockquote {
+      border-left: 0.25rem solid #ffc107; /* Yellow */
+      padding: 0.5rem 1rem;
+      margin: 1rem 0;
+      background-color: #e9ecef;
+    }
+
+    #markdown-content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+      background-color: #dae5ef; /* Light blue background for content area */
+      box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+  </style>
 </head>
 <body>
   <div id="markdown-content"></div>
