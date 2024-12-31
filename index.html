@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Markdown Page</title>
+  <script src="https://cdn.rawgit.com/showdownjs/showdown/1.9.1/dist/showdown.min.js"></script>
+</head>
+<body>
+  <div id="markdown-content"></div>
+  <script>
+    // Fetch your markdown file
+    fetch('answers.md') 
+      .then(response => response.text())
+      .then(markdownText => {
+        // Convert Markdown to HTML
+        var converter = new showdown.Converter();
+        var html = converter.makeHtml(markdownText);
+
+        // Display in the 'markdown-content' div
+        document.getElementById('markdown-content').innerHTML = html;
+      });
+  </script>
+</body>
+</html>
