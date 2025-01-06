@@ -63,6 +63,32 @@
       background-color: #e9ecef;
     }
 
+    .side-drawer {
+      height: 100%;
+      width: 250px;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #f1f1f1;
+      overflow-x: hidden;
+      padding-top: 20px;
+    }
+
+    .side-drawer a {
+      padding: 10px 15px;
+      text-decoration: none;
+      font-size: 1rem;
+      color: #333;
+      display: block;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .side-drawer a:hover {
+      background-color: #ddd;
+    }
+
+
     #markdown-content {
       max-width: 800px;
       margin: 0 auto;
@@ -104,6 +130,14 @@ tbody tr:nth-child(odd) {
 <body>
   <div id="markdown-content">
     <!-- Markdown content, INCLUDING THE TABLE, will be loaded here -->
+  </div>
+  <div class="side-drawer">
+    <a href="#hsmc-505">HSMC 505</a>
+    <a href="#notes">Notes</a>
+    <a href="#main-difference-between-formal-and-informal-organization">Main Difference Between Formal and Informal Organization</a>
+    <a href="#mcq">MCQ</a>
+    <a href="#short">Short QnA</a>
+    <a href="#long">Long QnA</a>
   </div>
 
   <script>

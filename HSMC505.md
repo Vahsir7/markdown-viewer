@@ -86,7 +86,10 @@
 <ul>It is a force that binds all the functions of management</ul>
 14. The function of management related to placing the right person at the right job is **Staffing**.  
 15. The function of management relating to laying down the foundation for carrying out the other functions of management successfully is **Planning**.  
-16. Organising as a function of management involves deciding **All of the above**.  
+16. Organising as a function of management involves deciding 
+<ul>What activities and resources are required</ul>
+<ul>Who will do a particular task</ul>
+<ul>Where will it be done</ul>
 17. The main task of this level of management is to determine the overall organisational objectives and strategies for their realisation - **Top level management**.  
 18. Which of the following statements is not true for lower-level management? - **Analyse the business environment and its implications for the survival of the business**.  
 19. A function of top-level management is **Taking responsibility for all the activities of the business and its impact on society**.  
@@ -123,7 +126,7 @@
 50. Management is a **group** activity.
 
 
-### Short Qna
+### Short
 **1. Define Planning. State the various steps in planning.**  
 - **Planning** is the process of setting objectives and determining the best course of action to achieve them.  
 **Steps in Planning:**  
@@ -242,7 +245,7 @@
 2. Time-Consuming  
 3. May Lead to Short-Term Focus
 
-### Long Qna
+### Long
 Here's a detailed explanation for each long question:  
 
 ---
