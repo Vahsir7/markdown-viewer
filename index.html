@@ -71,13 +71,44 @@
       box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
       border-radius: 5px;
     }
+
+    table {
+  width: 100%;
+  max-width: 800px; 
+  margin: 1rem auto;
+  border-collapse: collapse;
+  font: 1em ;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  text-align: left;
+}
+
+th {
+  background-color: #809c73;
+  font-weight: bold;
+}
+
+/* Alternate row colors */
+tbody tr:nth-child(even) {
+  background-color: #b9c8ad; /* Light grey */
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #d7f1cf; /* White */
+}
   </style>
 </head>
 <body>
-  <div id="markdown-content"></div>
+  <div id="markdown-content">
+    <!-- Markdown content, INCLUDING THE TABLE, will be loaded here -->
+  </div>
+
   <script>
     // Fetch your markdown file
-    fetch('answers.md') 
+    fetch('HSMC505.md') 
       .then(response => response.text())
       .then(markdownText => {
         // Convert Markdown to HTML
@@ -90,3 +121,4 @@
   </script>
 </body>
 </html>
+
