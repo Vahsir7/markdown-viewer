@@ -80,7 +80,10 @@
 10. Management is a **goal** directed process as it aims at achieving specified goals.  
 11. **Science** is a systematized body of knowledge that explains certain general truths or operation of general laws.  
 12. The feature of coordination highlighted in the statement “Coordination is not a one-time function, it begins at the planning stage and continues till controlling” is **Coordination is a continuous process**.  
-13. Coordination is considered to be the essence of management because - **All of the above**.  
+13. Coordination is considered to be the essence of management because - 
+<ul>  It is a common thread that runs through all the activities within the organisation </ul>
+<ul>It is implicit and inherent in all functions of the organisation</ul>
+<ul>It is a force that binds all the functions of management</ul>
 14. The function of management related to placing the right person at the right job is **Staffing**.  
 15. The function of management relating to laying down the foundation for carrying out the other functions of management successfully is **Planning**.  
 16. Organising as a function of management involves deciding **All of the above**.  
