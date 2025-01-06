@@ -7,7 +7,7 @@
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       line-height: 1.6;
-      margin: 2rem;
+      margin: 0; /* Remove default margin to avoid conflicts */
       background-color: #c4e7b4;
       color: #343a40;
       font-size: 1.2rem; /* Increased base font size */
@@ -63,6 +63,7 @@
       background-color: #e9ecef;
     }
 
+    /* Side Drawer Styles */
     .side-drawer {
       height: 100%;
       width: 250px;
@@ -73,6 +74,11 @@
       background-color: #f1f1f1;
       overflow-x: hidden;
       padding-top: 20px;
+      transition: 0.3s ease-in-out; /* Add transition for smooth open/close */
+    }
+
+    .side-drawer.collapsed {
+      width: 0; /* Set width to 0 when collapsed */
     }
 
     .side-drawer a {
@@ -88,50 +94,75 @@
       background-color: #ddd;
     }
 
-
+    /* Content Area Styles (Adjust as needed) */
     #markdown-content {
+      margin-left: 250px; /* Adjust for the side drawer width */
+      transition: 0.3s ease-in-out;
       max-width: 800px;
-      margin: 0 auto;
+      margin: 2rem auto; /* Center content with top/bottom margin */
       padding: 2rem;
       background-color: #dae5ef; /* Light blue background for content area */
       box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
       border-radius: 5px;
     }
 
+    /* Adjust content area when drawer is collapsed */
+    .side-drawer.collapsed ~ #markdown-content { 
+      margin-left: 0;
+    }
+
+    /* Toggle Button Styles */
+    .toggle-btn {
+      position: fixed; /* Keep it in place when scrolling */
+      top: 10px;
+      left: 260px; /* Adjust position based on drawer width */
+      z-index: 2; /* Ensure it's above the drawer */
+      background-color: #343a40;
+      color: white;
+      padding: 8px 12px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s ease-in-out; /* Add transition for smooth movement */
+    }
+
+    /* Adjust button position when drawer is collapsed */
+    .side-drawer.collapsed + .toggle-btn {
+      left: 10px; 
+    }
+
     table {
-  width: 100%;
-  max-width: 800px; 
-  margin: 1rem auto;
-  border-collapse: collapse;
-  font: 1em ;
-}
+      width: 100%;
+      max-width: 800px; 
+      margin: 1rem auto;
+      border-collapse: collapse;
+      font: 1em ;
+    }
 
-th, td {
-  border: 1px solid #ddd;
-  padding: 1rem;
-  text-align: left;
-}
+    th, td {
+      border: 1px solid #ddd;
+      padding: 1rem;
+      text-align: left;
+    }
 
-th {
-  background-color: #809c73;
-  font-weight: bold;
-}
+    th {
+      background-color: #809c73;
+      font-weight: bold;
+    }
 
-/* Alternate row colors */
-tbody tr:nth-child(even) {
-  background-color: #b9c8ad; /* Light grey */
-}
+    /* Alternate row colors */
+    tbody tr:nth-child(even) {
+      background-color: #b9c8ad; /* Light grey */
+    }
 
-tbody tr:nth-child(odd) {
-  background-color: #d7f1cf; /* White */
-}
+    tbody tr:nth-child(odd) {
+      background-color: #d7f1cf; /* White */
+    }
   </style>
 </head>
 <body>
-  <div id="markdown-content">
-    <!-- Markdown content, INCLUDING THE TABLE, will be loaded here -->
-  </div>
-  <div class="side-drawer">
+
+  <div class="side-drawer" id="mySidenav">
     <a href="#hsmc-505">HSMC 505</a>
     <a href="#notes">Notes</a>
     <a href="#main-difference-between-formal-and-informal-organization">Main Difference Between Formal and Informal Organization</a>
@@ -140,7 +171,17 @@ tbody tr:nth-child(odd) {
     <a href="#long">Long QnA</a>
   </div>
 
+  <button class="toggle-btn" onclick="toggleNav()">Toggle Nav</button>
+
+  <div id="markdown-content">
+    <!-- Markdown content will be loaded here -->
+  </div>
+
   <script>
+    function toggleNav() {
+      document.getElementById("mySidenav").classList.toggle("collapsed");
+    }
+
     // Fetch your markdown file
     fetch('HSMC505.md') 
       .then(response => response.text())
