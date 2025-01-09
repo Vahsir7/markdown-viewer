@@ -1,4 +1,4 @@
-Here are the answers to the questions in the image:
+<h1 id="Short">Short answers</h1>
 
 1. **Define Constitution:**  
    A constitution is a set of fundamental principles or established precedents according to which a state or organization is governed.
@@ -15,9 +15,6 @@ Here are the answers to the questions in the image:
 5. **What are Legal Rights?**  
    Legal rights are rights that are granted and protected by the law and can be enforced by the judiciary.
 
-
-Here are the answers to the questions in the image:
-
 1. **Explain the importance of the Indian Constitution:**  
    The Indian Constitution is significant because it establishes the fundamental legal framework of the country, ensures the separation of powers among government organs, protects citizens' fundamental rights, promotes social justice and equality, and maintains the unity and integrity of India.
 
@@ -33,65 +30,6 @@ Here are the answers to the questions in the image:
 5. **Differentiate between Fundamental Rights and Directive Principles:**  
    - **Fundamental Rights:** These are enforceable by the courts and provide individual freedoms and equality to citizens.  
    - **Directive Principles:** These are non-justiciable guidelines aimed at establishing social and economic democracy. They direct the state to work toward the welfare of citizens.  
-
-Here are detailed answers to the questions in the image:
-
-1. **What are the salient features of the Indian Constitution? Also, describe the composition of the Indian Constitution.**  
-   - **Salient Features:**  
-     - Lengthiest written constitution in the world.  
-     - Combination of rigidity and flexibility.  
-     - Federal structure with a unitary bias.  
-     - Parliamentary form of government.  
-     - Independent judiciary.  
-     - Fundamental Rights and Duties.  
-     - Directive Principles of State Policy.  
-     - Secular and democratic in nature.  
-   - **Composition:**  
-     - The Indian Constitution consists of a Preamble, 470 Articles grouped into 25 Parts, and 12 Schedules (as of recent amendments). It provides for the framework of governance, fundamental rights, directive principles, and division of powers.
-
-2. **Discuss the fundamental rights enshrined in Articles 14 to 32.**  
-   - **Articles 14–18:** Right to Equality, prohibiting discrimination and ensuring equal protection of the law.  
-   - **Articles 19–22:** Right to Freedom, including freedom of speech, expression, and movement, along with protection against arbitrary detention.  
-   - **Articles 23–24:** Right against Exploitation, prohibiting human trafficking and child labor.  
-   - **Articles 25–28:** Right to Freedom of Religion, guaranteeing religious freedom to all citizens.  
-   - **Articles 29–30:** Cultural and Educational Rights, ensuring the protection of cultural identity and educational opportunities for minorities.  
-   - **Article 32:** Right to Constitutional Remedies, enabling citizens to approach the judiciary to enforce their rights.
-
-3. **What are the types of duties? Explain the relevance and criticism of fundamental duties.**  
-   - **Types of Duties:**  
-     - **Moral Duties:** Promote ethical behavior, such as respecting elders and maintaining unity.  
-     - **Civic Duties:** Obligations towards the nation, like voting, paying taxes, and protecting public property.  
-   - **Relevance:**  
-     - Promote national unity and integrity.  
-     - Encourage responsible citizenship.  
-     - Complement fundamental rights.  
-   - **Criticism:**  
-     - Lack of enforceability.  
-     - Vague and general wording.  
-     - Imposed responsibilities without corresponding rights.
-
-4. **Explain the nature of directive principles. Describe the classification of directive principles.**  
-   - **Nature:** Directive Principles are guidelines for the state to create policies aimed at social and economic justice. They are non-justiciable but fundamental to governance.  
-   - **Classification:**  
-     - **Socialistic Principles:** Promote welfare, prevent exploitation, and reduce inequality (e.g., Article 39).  
-     - **Gandhian Principles:** Reflect Mahatma Gandhi's philosophy (e.g., promotion of cottage industries).  
-     - **Liberal-Intellectual Principles:** Encourage international peace and scientific progress (e.g., Article 44).  
-
-5. **What are the constitutional amendments related to directive principles? Give the advantages and disadvantages of the directive principles.**  
-   - **Amendments:**  
-     - 42nd Amendment (1976): Strengthened Directive Principles, adding provisions like free legal aid and environmental protection.  
-     - 86th Amendment (2002): Made free and compulsory education a fundamental right, initially included as a Directive Principle.  
-   - **Advantages:**  
-     - Guide state policy for social welfare.  
-     - Help achieve socio-economic justice.  
-     - Bridge the gap between fundamental rights and governance.  
-   - **Disadvantages:**  
-     - Non-justiciable, limiting enforceability.  
-     - Depend on the will of the ruling government.  
-     - May conflict with fundamental rights in certain cases.
-
-
-## Very Short Answer Type Questions:
 
 **1. Define the term legislative power.**
 
@@ -155,15 +93,147 @@ The Prime Minister of India is appointed by the President. The leader of the pol
 
 **7. Differentiate between Lok Sabha & Rajya Sabha.**
 
-| Feature | Lok Sabha (House of the People) | Rajya Sabha (Council of States) |
-|---|---|---|
-| **Membership** | Directly elected by citizens | Elected by elected members of state and territorial legislatures |
-| **Term** | 5 years (unless dissolved earlier) | Permanent body (members have 6-year terms, with one-third retiring every two years) |
-| **Dissolution** | Can be dissolved by the President | Not subject to dissolution |
-| **Powers related to Money Bills** | Has primary authority over money bills | Can only discuss and recommend changes to money bills but cannot reject them |
-| **Control over the Executive** |  Holds greater control over the executive branch as the government is directly accountable to it | Plays a more advisory role in holding the executive accountable | 
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Lok Sabha (House of the People)</th>
+      <th>Rajya Sabha (Council of States)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Membership</strong></td>
+      <td>Directly elected by citizens</td>
+      <td>Elected by elected members of state and territorial legislatures</td>
+    </tr>
+    <tr>
+      <td><strong>Term</strong></td>
+      <td>5 years (unless dissolved earlier)</td>
+      <td>Permanent body (members have 6-year terms, with one-third retiring every two years)</td>
+    </tr>
+    <tr>
+      <td><strong>Dissolution</strong></td>
+      <td>Can be dissolved by the President</td>
+      <td>Not subject to dissolution</td>
+    </tr>
+    <tr>
+      <td><strong>Powers related to Money Bills</strong></td>
+      <td>Has primary authority over money bills</td>
+      <td>Can only discuss and recommend changes to money bills but cannot reject them</td>
+    </tr>
+    <tr>
+      <td><strong>Control over the Executive</strong></td>
+      <td>Holds greater control over the executive branch as the government is directly accountable to it</td>
+      <td>Plays a more advisory role in holding the executive accountable</td>
+    </tr>
+  </tbody>
+</table>
 
-## Long Answer Type Questions:
+
+**1) Who is the governor?**
+
+The Governor is the head of a state in India, appointed by the President of India. They act as the nominal head of the state government.
+
+**2) Who is the Chief Minister?**
+
+The Chief Minister is the elected head of the government in a state in India. They are typically the leader of the majority party or coalition in the state's Legislative Assembly.
+
+**3) Who is the State Council of Ministers?**
+
+The State Council of Ministers is a group of ministers headed by the Chief Minister, who are collectively responsible for advising the Governor and running the state government.
+
+**4) What is the State Legislature?**
+
+The State Legislature is the law-making body of a state in India. It can be either bicameral (with two houses) or unicameral (with one house), depending on the state. 
+
+**5) What is the High Court?**
+
+The High Court is the highest judicial authority in a state or group of states in India. It has the power to interpret and apply laws within its jurisdiction.
+
+**1) What are the qualifications of a governor?**
+
+* Must be a citizen of India
+* Must be at least 35 years old
+* Should not hold any office of profit
+
+**2) How is the CM appointed?**
+
+The Chief Minister is appointed by the Governor. The leader of the party or coalition with a majority in the Legislative Assembly is usually invited to form the government and become Chief Minister.
+
+**3) Write a note on the State Legislative Assembly.**
+
+The State Legislative Assembly, also known as the Vidhan Sabha, is the lower house (or the only house in unicameral legislatures) of the state legislature. Its members are directly elected by the people of the state. The Legislative Assembly plays a crucial role in state lawmaking, financial control, and holding the executive branch accountable.
+
+**4) What is the State Legislative Assembly?**
+
+(This question seems to be a repetition of question 3)
+
+**5) What are the powers of Panchayats?**
+
+Panchayats, the local self-governance institutions in rural India, have the power to:
+
+* Implement development programs in areas like sanitation, healthcare, and education
+* Levy and collect local taxes
+* Manage local resources and assets
+* Promote social justice and economic development within their jurisdiction
+
+
+<h1 id="Long">Long Answers</h1>
+
+1. **What are the salient features of the Indian Constitution? Also, describe the composition of the Indian Constitution.**  
+   - **Salient Features:**  
+     - Lengthiest written constitution in the world.  
+     - Combination of rigidity and flexibility.  
+     - Federal structure with a unitary bias.  
+     - Parliamentary form of government.  
+     - Independent judiciary.  
+     - Fundamental Rights and Duties.  
+     - Directive Principles of State Policy.  
+     - Secular and democratic in nature.  
+   - **Composition:**  
+     - The Indian Constitution consists of a Preamble, 470 Articles grouped into 25 Parts, and 12 Schedules (as of recent amendments). It provides for the framework of governance, fundamental rights, directive principles, and division of powers.
+
+2. **Discuss the fundamental rights enshrined in Articles 14 to 32.**  
+   - **Articles 14–18:** Right to Equality, prohibiting discrimination and ensuring equal protection of the law.  
+   - **Articles 19–22:** Right to Freedom, including freedom of speech, expression, and movement, along with protection against arbitrary detention.  
+   - **Articles 23–24:** Right against Exploitation, prohibiting human trafficking and child labor.  
+   - **Articles 25–28:** Right to Freedom of Religion, guaranteeing religious freedom to all citizens.  
+   - **Articles 29–30:** Cultural and Educational Rights, ensuring the protection of cultural identity and educational opportunities for minorities.  
+   - **Article 32:** Right to Constitutional Remedies, enabling citizens to approach the judiciary to enforce their rights.
+
+3. **What are the types of duties? Explain the relevance and criticism of fundamental duties.**  
+   - **Types of Duties:**  
+     - **Moral Duties:** Promote ethical behavior, such as respecting elders and maintaining unity.  
+     - **Civic Duties:** Obligations towards the nation, like voting, paying taxes, and protecting public property.  
+   - **Relevance:**  
+     - Promote national unity and integrity.  
+     - Encourage responsible citizenship.  
+     - Complement fundamental rights.  
+   - **Criticism:**  
+     - Lack of enforceability.  
+     - Vague and general wording.  
+     - Imposed responsibilities without corresponding rights.
+
+4. **Explain the nature of directive principles. Describe the classification of directive principles.**  
+   - **Nature:** Directive Principles are guidelines for the state to create policies aimed at social and economic justice. They are non-justiciable but fundamental to governance.  
+   - **Classification:**  
+     - **Socialistic Principles:** Promote welfare, prevent exploitation, and reduce inequality (e.g., Article 39).  
+     - **Gandhian Principles:** Reflect Mahatma Gandhi's philosophy (e.g., promotion of cottage industries).  
+     - **Liberal-Intellectual Principles:** Encourage international peace and scientific progress (e.g., Article 44).  
+
+5. **What are the constitutional amendments related to directive principles? Give the advantages and disadvantages of the directive principles.**  
+   - **Amendments:**  
+     - 42nd Amendment (1976): Strengthened Directive Principles, adding provisions like free legal aid and environmental protection.  
+     - 86th Amendment (2002): Made free and compulsory education a fundamental right, initially included as a Directive Principle.  
+   - **Advantages:**  
+     - Guide state policy for social welfare.  
+     - Help achieve socio-economic justice.  
+     - Bridge the gap between fundamental rights and governance.  
+   - **Disadvantages:**  
+     - Non-justiciable, limiting enforceability.  
+     - Depend on the will of the ruling government.  
+     - May conflict with fundamental rights in certain cases.
 
 **1. Discuss the powers and functions of the President of India. How is the President elected?**
 
@@ -310,59 +380,5 @@ The Supreme Court of India is the highest judicial court in India and the head o
 * **Protection of Fundamental Rights:**  The Supreme Court acts as the guardian of fundamental rights and protects citizens' rights from infringement by the state.
 * **Advisory Jurisdiction:** The President of India can refer questions of public importance to the Supreme Court for its opinion. 
 * **Court of Record:**  The Supreme Court is a court of record, meaning its judgments have a binding effect on lower courts. 
-
-
-## 3.6.1. Very Short Answer Type Questions
-
-**1) Who is the governor?**
-
-The Governor is the head of a state in India, appointed by the President of India. They act as the nominal head of the state government.
-
-**2) Who is the Chief Minister?**
-
-The Chief Minister is the elected head of the government in a state in India. They are typically the leader of the majority party or coalition in the state's Legislative Assembly.
-
-**3) Who is the State Council of Ministers?**
-
-The State Council of Ministers is a group of ministers headed by the Chief Minister, who are collectively responsible for advising the Governor and running the state government.
-
-**4) What is the State Legislature?**
-
-The State Legislature is the law-making body of a state in India. It can be either bicameral (with two houses) or unicameral (with one house), depending on the state. 
-
-**5) What is the High Court?**
-
-The High Court is the highest judicial authority in a state or group of states in India. It has the power to interpret and apply laws within its jurisdiction.
-
-
-## 3.6.2. Short Answer Type Questions
-
-**1) What are the qualifications of a governor?**
-
-* Must be a citizen of India
-* Must be at least 35 years old
-* Should not hold any office of profit
-
-**2) How is the CM appointed?**
-
-The Chief Minister is appointed by the Governor. The leader of the party or coalition with a majority in the Legislative Assembly is usually invited to form the government and become Chief Minister.
-
-**3) Write a note on the State Legislative Assembly.**
-
-The State Legislative Assembly, also known as the Vidhan Sabha, is the lower house (or the only house in unicameral legislatures) of the state legislature. Its members are directly elected by the people of the state. The Legislative Assembly plays a crucial role in state lawmaking, financial control, and holding the executive branch accountable.
-
-**4) What is the State Legislative Assembly?**
-
-(This question seems to be a repetition of question 3)
-
-**5) What are the powers of Panchayats?**
-
-Panchayats, the local self-governance institutions in rural India, have the power to:
-
-* Implement development programs in areas like sanitation, healthcare, and education
-* Levy and collect local taxes
-* Manage local resources and assets
-* Promote social justice and economic development within their jurisdiction
-
 
 
